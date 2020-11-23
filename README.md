@@ -24,5 +24,5 @@ There should have been a full system from chapter 1 to 13😄, which introduce s
 2. 🤭Example codes.
 3. 🤭Some useful corpus.
 
-*If you find something wrong, please forgive me and leave a message to remind me of the mistake, if possible* 
-Email: bijianqi98@foxmail.com
+*If you find something wrong, please forgive me and leave a message to remind me of the mistake, if possible. * 
+This is my Email: bijianqi98@foxmail.com
